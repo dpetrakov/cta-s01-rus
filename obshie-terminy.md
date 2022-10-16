@@ -1,0 +1,13 @@
+# Общие термины
+
+* Appologium – ???
+* Alguazil – Альгвасил (боевой судья)
+* Arkhantan – ???
+* Arkhomes – ???
+* Mantris – ???
+* Cybernetics – ???
+* Bioosted – ???
+* Meditechs – ???
+* Glyph – Символ
+*
+
