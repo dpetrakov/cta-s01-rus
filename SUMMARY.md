@@ -1,4 +1,5 @@
 # Table of contents
 
-* [АПЛОГИУМ](README.md)
+* [Предисловие](README.md)
+* [АПЛОГИУМ](<README (1).md>)
 * [Глоссарий](glossarii.md)
