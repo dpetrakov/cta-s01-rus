@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Предисловие](README.md)
-* [1. APPOLOGIUM](1.-appologium.md)
+* [1. Аппологиум](1.-appologium.md)
 * [2. Оставь надежду...](2.-ostav-nadezhdu....md)
 * [3. История с ошибкой](3.-istoriya-s-oshibkoi.md)
 * [4. Концертмейстер](4.-koncertmeister.md)
