@@ -1,17 +1,13 @@
 # Общие термины
 
-* Appologium – Аппологиум
+* Appologium – ???
 * Alguazil – Альгвасил (боевой судья)
-* Arkhantan – Аркант, Арканты, Аркантов
-* Arkhomes – ??? (их семь штук магических) Арканы?
-* Mantris – Мантрис
+* Arkhantan – ???
+* Arkhomes – ???
+* Mantris – ???
 * Cybernetics – ???
 * Bioosted – ???
 * Meditechs – ???
-* aballition – ???
 * Glyph – Символ
-* Солис – Солис (она)
-* Malek – Малек (Отец Солис)
-* Malkah – ???
-* Acongua – Аконгуа
+*
 
