@@ -4,5 +4,6 @@
 
 В переводе принимали участие:
 
-* Dimlight | GOE#8432 0x0b95c1E17205f08637AB8982B80b62f87962767F
+* Dimlight
+* Tgshulch
 *
