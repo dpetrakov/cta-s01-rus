@@ -11,5 +11,4 @@
 * [8. Инкогнито](8.-inkognito.md)
 * [9. (Ночь в белом) Сатин](9.-noch-v-belom-satin.md)
 * [10. Две сабли](10.-dve-sabli.md)
-* [Глоссарий](glossarii.md)
 * [Общие термины](obshie-terminy.md)
